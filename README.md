@@ -4,6 +4,7 @@
 
   - [SOC Automation Project (Home Lab)](https://medium.com/@bhavya07092000_97509/soc-automation-project-home-lab-d33ef0b31df8)
   - [Web Application Security Assessment Using OWASP and ZAP](https://medium.com/@bhavya07092000_97509/introduction-143f7a392cc7)
+  - [Vulnerability Assessment and Remediation Using Nessus Essentials](https://medium.com/@bhavya07092000_97509/using-nessus-essentials-to-detect-and-remediate-vulnerabilities-in-a-windows-10-virtual-machine-49ebb0d0e5aa)
 
 <h2>📄 Certifications:</h2>
 
